@@ -1,1 +1,7 @@
 
+fastmcp
+requests
+xmltodict
+python-dotenv
+azure-identity
+azure-keyvault-secrets
