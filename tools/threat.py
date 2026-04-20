@@ -2,7 +2,7 @@
 from fastmcp import FastMCP
 from app.context import MCPContext
 from app.panorama_client import PanoramaClient
-from app.services.session_store import update_session
+from services.session_store import update_session
 
 mcp = FastMCP("paloalto-mcp")
 client = PanoramaClient()
